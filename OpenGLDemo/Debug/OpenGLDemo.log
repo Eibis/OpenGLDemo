@@ -1,0 +1,21 @@
+﻿  OpenGLDemo.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\eibis\documents\visual studio 2015\projects\opengldemo\packages\nupengl.core.0.1.0.1\build\native\include\glfw\glfw3.h(92): note: see previous definition of 'APIENTRY'
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\opengldemo.cpp(15): warning C4005: 'M_PI': macro redefinition
+  c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.h(13): note: see previous definition of 'M_PI'
+  Cube.cpp
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\eibis\documents\visual studio 2015\projects\opengldemo\opengldemo\cube.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  OpenGLDemo.vcxproj -> C:\Users\Eibis\Documents\Visual Studio 2015\Projects\OpenGLDemo\Debug\OpenGLDemo.exe
